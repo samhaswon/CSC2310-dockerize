@@ -10,4 +10,4 @@ else
 fi
 echo "-- Done --"
 cd /app/ || exit
-python3 -m flask run
+python3 -m flask run --host=0.0.0.0
