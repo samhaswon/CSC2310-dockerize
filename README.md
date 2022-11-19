@@ -20,9 +20,9 @@ docker build -t it2 .
 ### Run the container (detached)
 *Linux*
 ```sh
-sudo docker run -pd 5000:5000 it1
+sudo docker run -pd 5000:5000 it2
 ```
 *Windows*
 ```ps
-docker run -pd 5000:5000 it1
+docker run -pd 5000:5000 it2
 ```
