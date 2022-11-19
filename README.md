@@ -26,4 +26,4 @@ sudo docker run -dp 5000:5000 it2
 ```ps
 docker run -dp 5000:5000 it2
 ```
-##### * name can be specified with the `--name "<name_of_container>"` tag
+##### [* name can be specified with the `--name "<name_of_container>"` tag](https://docs.docker.com/engine/reference/run/#name---name "Docker documentation")
