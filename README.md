@@ -2,8 +2,8 @@
 For converting the completed F22 CSC2310 project into a docker container
 
 ---
-## Important!
-The files in this repository must be in the project's root directory
+## ***Important!***
+The files in this repository must be in the *project's root directory*
 
 ---
 ### Build the container
@@ -26,3 +26,4 @@ sudo docker run -dp 5000:5000 it2
 ```ps
 docker run -dp 5000:5000 it2
 ```
+##### * name can be specified with the `--name "<name_of_container>"` tag
