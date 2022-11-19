@@ -153,7 +153,5 @@ cython_debug/
 *.py
 docs/architecture.png
 requirements.txt
-static/favicon.ico
 *.html
-*.css
 datalayer/Artists.json
